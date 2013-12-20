@@ -17,15 +17,15 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
         <item>mauve</item>
-        <item>winter_sunset</item>
+        <item>red_sunset</item>
         <item>barnsley_silhouette</item>
         <item>maplebokeh</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Mauve - Matthew Hanley</item>
-        <item>Winter Sunset - Matthew Hanley</item>
-        <item>Barnsley Silhouette - Matthew Hanley</item>
-        <item>Maple Bokeh - Henry Mason</item>
+        <item>Mauve</item>
+        <item>Red Sunset</item>
+        <item>Barnsley Silhouette</item>
+        <item>Maple</item>
     </string-array>
 </resources>
