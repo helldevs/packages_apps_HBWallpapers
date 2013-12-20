@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
+        <item>hellkat1</item>
         <item>mauve</item>
         <item>red_sunset</item>
         <item>barnsley_silhouette</item>
@@ -23,6 +24,7 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+        <item>HellKat Logo 1</item>
         <item>Mauve</item>
         <item>Red Sunset</item>
         <item>Barnsley Silhouette</item>
