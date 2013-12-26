@@ -19,6 +19,8 @@
         <item>hellkat1</item>
         <item>hellkat2</item>
         <item>hellkat3</item>
+        <item>hkdevil1</item>
+        <item>hkdevil2</item>
         <item>mauve</item>
         <item>red_sunset</item>
         <item>barnsley_silhouette</item>
@@ -27,6 +29,8 @@
 
     <string-array name="info" translatable="false">
         <item>HellKat Logo 1</item>
+        <item>hkdevil1</item>
+        <item>hkdevil2</item>
         <item>Red Abstract</item>
         <item>Black and Red Digital</item>
         <item>Mauve</item>
