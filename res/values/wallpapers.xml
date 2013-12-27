@@ -25,17 +25,21 @@
         <item>red_sunset</item>
         <item>barnsley_silhouette</item>
         <item>maplebokeh</item>
+        <item>yolandivisser</item>
+        <item>taylormomsen</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>HellKat Logo 1</item>
-        <item>hkdevil1</item>
-        <item>hkdevil2</item>
         <item>Red Abstract</item>
         <item>Black and Red Digital</item>
+        <item>hkdevil1</item>
+        <item>hkdevil2</item>
         <item>Mauve</item>
         <item>Red Sunset</item>
         <item>Barnsley Silhouette</item>
         <item>Maple</item>
+        <item>yolandivisser</item>
+        <item>taylormomsen</item>
     </string-array>
 </resources>
