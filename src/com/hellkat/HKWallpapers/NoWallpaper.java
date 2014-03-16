@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.HKWallpapers;
+package com.hellkat.HKWallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
